@@ -31,4 +31,4 @@ window.customElements.define) и также осуществить взаимо�
 drmoerkerke-data-binding-for-web-components-in-just-a-few-lines-of-code-33f0a46943b3) и
 отправки и обработки пользовательских сообщений (dispatchEvent, addEventListener)
 
-![Image alt](https://github.com/AlexandrKarpovich/triumph_Blend4Web-test/img/demo.jpg)
+![Image alt](https://github.com/AlexandrKarpovich/triumph_Blend4Web-test/blob/master/img/demo.png)
